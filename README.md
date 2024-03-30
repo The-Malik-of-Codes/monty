@@ -57,7 +57,8 @@ The functions used are:
 ### Examples
 
 ```console
-$lexxyla> ls
+┌─[the-engineer-coder@the-robot-maker]─[~/Documents/Programming/Programming Codes/alx/monty]
+└──╼ $ ls
 basics.c    general.c  main.h  memory.c   shell.c
 builders.c  helper.c   hsh          README.md  test
 ```
